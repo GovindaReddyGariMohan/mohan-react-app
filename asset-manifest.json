@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mohan-react-app/static/css/main.f855e6bc.css",
-    "main.js": "/mohan-react-app/static/js/main.8071a562.js",
+    "main.js": "/mohan-react-app/static/js/main.f06dd836.js",
     "static/js/787.d4aba7ab.chunk.js": "/mohan-react-app/static/js/787.d4aba7ab.chunk.js",
     "static/media/logo.svg": "/mohan-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mohan-react-app/index.html",
     "main.f855e6bc.css.map": "/mohan-react-app/static/css/main.f855e6bc.css.map",
-    "main.8071a562.js.map": "/mohan-react-app/static/js/main.8071a562.js.map",
+    "main.f06dd836.js.map": "/mohan-react-app/static/js/main.f06dd836.js.map",
     "787.d4aba7ab.chunk.js.map": "/mohan-react-app/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8071a562.js"
+    "static/js/main.f06dd836.js"
   ]
 }
